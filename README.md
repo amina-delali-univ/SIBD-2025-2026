@@ -28,3 +28,14 @@ The two books are:
 ## Form to fill out
 Please fill out this form by clicking on the link below. You will need to enter your first and last name and email address.
 - 🔗 Form link: https://docs.google.com/forms/d/e/1FAIpQLSfTDW1rb1BjH5AmdpsXCtGx6O2waKWYQ3f2_YjxB3fV1lsCTw/viewform?usp=header
+
+## Lecture Notes and Tutorials
+
+### Lecture Notes
+
+## Tutorials
+- [Fiche TD 2](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%202.pdf)
+- [Fiche TD 3](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%203%20-%202024-2025.pdf)
+
+
+
