@@ -34,8 +34,8 @@ Please fill out this form by clicking on the link below. You will need to enter 
 ### Lecture Notes
 
 ## Tutorials
-- [Fiche TD 2](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%202.pdf)
-- [Fiche TD 3](https://github.com/amina-delali-univ/SIBD-2024-2025/blob/main/TD/SIBD%20TD%203%20-%202024-2025.pdf)
+- [Fiche TD 2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%202.pdf)
+- [Fiche TD 3](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%203.pdf)
 
 
 
