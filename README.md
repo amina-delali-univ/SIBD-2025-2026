@@ -36,6 +36,7 @@ Please fill out this form by clicking on the link below. You will need to enter 
 ## Tutorials
 - [Tutorial 2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%202.pdf)
 - [Tutorial 3](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%203.pdf)
+- [Tutorial 4](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%204.pdf)
 
 
 
