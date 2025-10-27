@@ -34,9 +34,11 @@ Please fill out this form by clicking on the link below. You will need to enter 
 ### Lecture Notes
 
 - [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%201%20-%20EN.pdf)
-- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%202%20-%20EN.pdf)
-- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%203%20-%20EN.pdf)
-- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%204%20-%20EN.pdf)
+- [IS Lecture Note 2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%202%20-%20EN.pdf)
+- [IS Lecture Note 3](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%203%20-%20EN.pdf)
+- [IS Lecture Note 4](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%204%20-%20EN.pdf)
+- [IS Lecture Note 5](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%205%20-%20EN.pdf)
+
 
 ### Tutorials
 
