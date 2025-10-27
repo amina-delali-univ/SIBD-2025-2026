@@ -33,9 +33,22 @@ Please fill out this form by clicking on the link below. You will need to enter 
 
 ### Lecture Notes
 
-## Tutorials
+- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%201%20-%20EN.pdf)
+- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%202%20-%20EN.pdf)
+- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%203%20-%20EN.pdf)
+- [IS Lecture Note 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%204%20-%20EN.pdf)
+
+### Tutorials
+
+- [Tutorial 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%201.pdf)
+- [Tutorial 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%201.pdf)
+
 - [Tutorial 2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%202.pdf)
+- [Tutorial 2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%202.pdf)
+
 - [Tutorial 3](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%203.pdf)
+- [Tutorial 3](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%203.pdf)
+
 - [Tutorial 4](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%204.pdf)
 
 
