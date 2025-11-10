@@ -38,6 +38,7 @@ Please fill out this form by clicking on the link below. You will need to enter 
 - [IS Lecture Notes 3](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%203%20-%20EN.pdf)
 - [IS Lecture Notes 4](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%204%20-%20EN.pdf)
 - [IS Lecture Notes 5](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%205%20-%20EN.pdf)
+- [IS Lecture Notes 6](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Lectures/IS%20-%20Course%206%20-%20EN.pdf)
 
 
 ### Tutorials
@@ -50,6 +51,8 @@ Please fill out this form by clicking on the link below. You will need to enter 
 - [Tutorial 3 - Solutions](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%203%20Solutions.pdf)
 - [Tutorial 4](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%204.pdf)
 - [Tutorial 4 - Solutions](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%204%20Solutions.pdf)
+- [Tutorial 5](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%205.pdf)
+
 
 
 
