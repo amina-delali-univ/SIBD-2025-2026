@@ -57,6 +57,8 @@ Please fill out this form by clicking on the link below. You will need to enter 
 - [Tutorial 5 - Solutions](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%205%20Solutions.pdf)
 - [Tutorial 6](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%206.pdf)
 - [Tutorial 6 - solutions](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%206%20Solutions.pdf)
+- [Tutorial 7](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%207.pdf)
+
 
 
 ### Tests
