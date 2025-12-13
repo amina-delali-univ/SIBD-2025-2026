@@ -68,9 +68,9 @@ Please fill out this form by clicking on the link below. You will need to enter 
 - [Test 1](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test1-2025-2026.pdf)
 - [Test 1 - Solution](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test1-2025-2026%20-%20Solutions.pdf)
 - [Test 2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test2-2025-2026.pdf)
-- [Test 2 - Solution](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test2-2025-2026%20-%20Solutions.pdf)
-- [Test 2 - V2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test2-v2-2025-2026.pdf)
-- [Test 2 - V2 Solution](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test2-v2-2025-2026%20-%20Solutions.pdf)
+- [Test 2 - Solution](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20test2-2025-2026%20-%20Solution.pdf)
+- [Test 2 - V2](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20V2-%20test2-2025-2026.pdf)
+- [Test 2 - V2 Solution](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tests/ISBD%20-%20V2-%20test2-2025-2026-Solution.pdf)
 
 
 
