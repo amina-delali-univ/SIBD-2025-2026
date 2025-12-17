@@ -63,6 +63,7 @@ Please fill out this form by clicking on the link below. You will need to enter 
 - [Tutorial 7](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%207.pdf)
 - [Tutorial 7 - solutions](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%207%20Solutions.pdf)
 - [Tutorial 8](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%208.pdf)
+- [Tutorial 8 - solutions](https://github.com/amina-delali-univ/SIBD-2025-2026/blob/main/Tutorials/Tutorial%208%20Solutions.pdf)
 
 
 
